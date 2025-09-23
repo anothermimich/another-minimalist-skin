@@ -1,4 +1,4 @@
-# Another minimal delta GBA theme
+# Another minimal GBA theme
 
 This [delta](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) theme aims to: 
   - Maximize the screen size on iPhone landscape edge-to-edge
@@ -8,4 +8,4 @@ This [delta](https://apps.apple.com/us/app/delta-game-emulator/id1048524688) the
 
 ## Config
 
-Import the theme, set the oppacity (15% looks good), play your fav game.
+Dowload the last version; Import on the iOS app; set the oppacity (15% looks good); play your fav game.
