@@ -1,5 +1,5 @@
 ![apotris game on iphone with skin](https://raw.githubusercontent.com/anothermimich/another-minimal-GBA/refs/heads/main/imgs/Apotris%20iPhone%2015%20Mockup.jpg)
-<p align="right">_apotris_</p>
+<p align="right"><i>apotris</i></p>
 
 # Another minimal GBA
 
