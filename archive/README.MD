@@ -22,3 +22,7 @@
 
 - Added support
 - Wrong aspect ratio
+
+## v0.2
+
+- Fix aspect ratio
