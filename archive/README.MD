@@ -14,6 +14,10 @@
 
 - Added support
 
+## v0.2
+
+- Added portrait
+
 # MD
 
 ## v0.1
