@@ -10,6 +10,12 @@
 - Only GBA landscape edge-to-edge
 - Has unnecessary layer over screen
 
+# NES
+
+## v0.1
+
+- Added support
+
 # MD
 
 ## v0.1
