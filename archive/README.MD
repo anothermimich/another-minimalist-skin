@@ -1,36 +1,33 @@
 # GBA
 
-## v0.3
+## v0.1
 
-- Added quick save and quick load
+- Only landscape edge-to-edge
 
-## v0.2
+# SNES
 
-- Only GBA landscape edge-to-edge
+## v0.1
+
+- Only landscape edge-to-edge
 
 # NES
 
 ## v0.1
 
-- Added support
+- Only landscape edge-to-edge
 
 ## v0.2
 
-- Added portrait
+- Added portrait edge-to-edge
 
 # MD
 
 ## v0.1
 
-- Added support
+- Only landscape edge-to-edge
 
 # PSP
 
 ## v0.1
 
-- Added support
-- Wrong aspect ratio
-
-## v0.2
-
-- Fix aspect ratio
+- Only landscape edge-to-edge
