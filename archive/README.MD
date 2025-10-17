@@ -4,6 +4,10 @@
 
 - Only landscape edge-to-edge
 
+## v0.2
+
+- quit button added and exclusive for manic emu
+
 # SNES
 
 ## v0.1
@@ -19,6 +23,10 @@
 ## v0.2
 
 - Added portrait edge-to-edge
+
+## v0.3
+
+- quit button added and exclusive for manic emu
 
 # MD
 
