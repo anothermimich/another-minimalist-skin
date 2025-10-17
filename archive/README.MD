@@ -37,3 +37,7 @@
 ## v0.1
 
 - Only landscape edge-to-edge
+
+## v0.2
+
+- Screen swap and quit button, exclusive to manic emu
