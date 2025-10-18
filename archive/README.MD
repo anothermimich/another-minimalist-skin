@@ -6,7 +6,11 @@
 
 ## v0.2
 
-- quit button added and exclusive for manic emu
+- quit button added (exclusive for manic emu)
+
+## v0.3
+
+- add saveStates button and fastForward (exclusive for manic emu)
 
 # SNES
 
@@ -48,4 +52,8 @@
 
 ## v0.2
 
-- Screen swap and quit button, exclusive to manic emu
+- Screen swap and quit button (exclusive to manic emu)
+
+## v0.3
+
+- add double button press and saveStates button (exclusive for manic emu)
